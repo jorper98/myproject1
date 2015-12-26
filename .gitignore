@@ -1,0 +1,5 @@
+*.log
+.htaccess
+0please ignore/
+subdirectory1/donotduplicate.txt
+
